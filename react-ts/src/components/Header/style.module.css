@@ -7,9 +7,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 30px; /* Увеличен отступ */
+    padding: 0 35px; /* Увеличен отступ */
     height: 70px; /* Увеличена высота */
-    background: linear-gradient(to right, #ff6f6f, #ffb3b3); /* Градиент фона */
+    background: linear-gradient(to right, #9C27B0, #E1BEE7);
     border-bottom: 2px solid #ccc; /* Увеличена толщина нижней границы */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Добавлена тень */
 }
